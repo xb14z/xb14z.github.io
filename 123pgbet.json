@@ -203,14 +203,27 @@
   ]
 }
 },{
-  "type": "uri",
-  "label": "สมัครสมาชิกเว็บ 123PGBET ฝากขั้นต่ำเพียง 1 บาท",
-  "uri": "https://t.ly/F14Yj"
-},
-{
-  "type": "uri",
-  "label": "รับเครดิตฟรี 100 ไม่ต้องฝากก่อน",
-  "uri": "https://t.ly/id2G8"
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครรับโบนัส 123PGBET",
+          "uri": "https://t.ly/F14Yj"
+        },
+        "style": "primary"
+      }
+    ]
+  }
+}
 }
 
 ]
