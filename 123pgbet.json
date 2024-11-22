@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "พี่คะตอบเเชทหนูหน่อยนะคะ🥺",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -145,7 +145,7 @@
 },
 {
   "type": "flex",
-  "altText": "You received a message",
+  "altText": "พี่คะตอบเเชทหนูหน่อยนะคะ🥺",
   "contents": {
   "type": "carousel",
   "contents": [
