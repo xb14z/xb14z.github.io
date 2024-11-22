@@ -4,141 +4,146 @@
   "contents": {
   "type": "bubble",
   "size": "giga",
-  "header": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "button",
-        "action": {
-          "type": "uri",
-          "label": "รับเเล้ว 60,987 คน",
-          "uri": "https://t.ly/id2G8"
-        },
-        "margin": "none",
-        "color": "#3366FF",
-        "offsetBottom": "xxl",
-        "offsetTop": "none",
-        "height": "sm",
-        "style": "primary"
-      }
-    ],
-    "backgroundColor": "#000000",
-    "borderColor": "#3366FF",
-    "borderWidth": "bold",
-    "cornerRadius": "none",
-    "offsetTop": "lg"
-  },
-  "hero": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "image",
-        "url": "https://img5.pic.in.th/file/secure-sv1/creditfree100-123z1apgbet-Recovered42e986093e6f9ca4.jpg",
-        "size": "full",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://t.ly/id2G8"
-        },
-        "animated": true
-      }
-    ],
-    "borderColor": "#3366FF",
-    "borderWidth": "bold"
-  },
   "body": {
     "type": "box",
     "layout": "vertical",
     "contents": [
       {
         "type": "text",
-        "text": "เเจกเครดิตสมาชิกใหม่ไม่ต้องฝากก่อน ทำรายการผ่านระบบอัตโนมัติ รับง่ายเพียงสมัครสมาชิก เล่นได้ทุกค่ายเกม",
+        "text": "🔥เว็บตรง แตกง่าย ถอนได้จริง 🔥",
         "align": "center",
-        "size": "xs",
-        "color": "#ffffff",
-        "offsetBottom": "xxl",
-        "wrap": true,
         "weight": "bold",
-        "margin": "lg",
+        "color": "#FFFF00",
+        "size": "lg",
+        "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "action",
+          "label": "WINK889+",
           "uri": "https://t.ly/id2G8"
         }
       },
       {
         "type": "image",
-        "url": "https://img5.pic.in.th/file/secure-sv1/12345e599c8b9e09b2927.png",
+        "url": "https://img5.pic.in.th/file/secure-sv1/creditfree100-123z1apgbet-Recovered42e986093e6f9ca4.jpg",
         "size": "full",
-        "aspectRatio": "5:1",
-        "offsetBottom": "lg",
+        "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "action",
+          "label": "WINK889+",
           "uri": "https://t.ly/id2G8"
         }
       },
       {
         "type": "box",
         "layout": "vertical",
-        "contents": [],
-        "offsetBottom": "xxl"
-      }
-    ],
-    "backgroundColor": "#000000",
-    "borderWidth": "bold",
-    "cornerRadius": "none",
-    "borderColor": "#3366FF"
-  },
-  "footer": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "button",
-        "action": {
-          "type": "uri",
-          "label": "รับเครดิตฟรี",
-          "uri": "https://t.ly/id2G8"
-        },
-        "style": "primary",
-        "margin": "none",
-        "height": "md",
-        "offsetTop": "none",
-        "color": "#3366FF"
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครวันนี้รับเครดิตฟรี 100 ทันที",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FFFF00",
+            "size": "md",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "🧧ทำยอดน้อยถอนได้จริง กดรับเองที่หน้าเว็บ🧧",
+            "align": "center",
+            "weight": "bold",
+            "color": "#ffffff",
+            "size": "sm",
+            "wrap": true,
+            "offsetTop": "xs",
+            "action": {
+              "type": "uri",
+              "label": "WINK889+",
+              "uri": "https://t.ly/id2G8"
+            }
+          }
+        ],
+        "margin": "none"
       },
       {
-        "type": "button",
+        "type": "text",
+        "text": "❗️🔻โปรโมชั่นสุดพิเศษ🔻❗️",
+        "align": "center",
+        "weight": "bold",
+        "color": "#ffffff",
+        "size": "xs",
+        "margin": "md",
+        "offsetBottom": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/3-79.jpg",
+            "size": "xl"
+          },
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/13-129.jpg",
+            "size": "xl"
+          },
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/49-179.jpg",
+            "size": "xl"
+          }
+        ],
+        "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "สมัครสมาขิก",
-          "uri": "https://t.ly/F14Yj"
-        },
-        "style": "primary",
-        "margin": "none",
-        "height": "md",
-        "offsetTop": "sm",
-        "color": "#33FF00"
+          "label": "WINK889+",
+          "uri": "https://t.ly/id2G8"
+        }
+      },
+      {
+        "type": "text",
+        "text": "🔻 สมัครสมาชิกรับเครดิตฟรีกดปุ่มด้านล่าง🔻",
+        "align": "center",
+        "weight": "bold",
+        "color": "#ffffff",
+        "size": "xs",
+        "margin": "sm",
+        "wrap": true,
+        "offsetTop": "xs"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉🏼 กดปุ่มนี้เพื่อรับเครดิตฟรี 👈🏼",
+              "uri": "https://t.ly/id2G8"
+            },
+            "style": "primary",
+            "gravity": "center"
+          }
+        ],
+        "offsetTop": "md"
       }
     ],
-    "backgroundColor": "#000000",
-    "margin": "none",
-    "spacing": "xxl",
-    "borderWidth": "bold",
-    "borderColor": "#3366FF"
-  },
-  "styles": {
-    "header": {
-      "backgroundColor": "#3366FF"
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
     },
-    "body": {
-      "backgroundColor": "#000000"
-    }
+    "borderWidth": "bold",
+    "cornerRadius": "xs",
+    "borderColor": "#3434ff"
   }
 }
-},{
+},
+{
   "type": "flex",
   "altText": "You received a message",
   "contents": {
@@ -148,7 +153,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://img2.pic.in.th/pic/10-1006cda44ad88f87a29.jpg",
+        "url": "https://img2.pic.in.th/pic/3-79.jpg",
         "size": "full",
         "aspectMode": "fit",
         "action": {
@@ -156,13 +161,32 @@
           "label": "action",
           "uri": "https://t.ly/fSn8e"
         }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/fSn8e"
+            }
+          }
+        ],
+        "backgroundColor": "#3434ff"
       }
     },
     {
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://img5.pic.in.th/file/secure-sv1/19-129.jpg",
+        "url": "https://img5.pic.in.th/file/secure-sv1/13-129.jpg",
         "size": "full",
         "aspectMode": "fit",
         "action": {
@@ -170,13 +194,32 @@
           "label": "action",
           "uri": "https://t.ly/fSn8e"
         }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/fSn8e"
+            }
+          }
+        ],
+        "backgroundColor": "#3434ff"
       }
     },
     {
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://img2.pic.in.th/pic/59-200.jpg",
+        "url": "https://img2.pic.in.th/pic/49-179.jpg",
         "size": "full",
         "aspectMode": "fit",
         "action": {
@@ -184,13 +227,32 @@
           "label": "action",
           "uri": "https://t.ly/fSn8e"
         }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/fSn8e"
+            }
+          }
+        ],
+        "backgroundColor": "#3434ff"
       }
     },
     {
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://img5.pic.in.th/file/secure-sv1/79-250.jpg",
+        "url": "https://img5.pic.in.th/file/secure-sv1/79-2507161fd5305df45f4.jpg",
         "size": "full",
         "aspectMode": "fit",
         "action": {
@@ -198,32 +260,28 @@
           "label": "action",
           "uri": "https://t.ly/fSn8e"
         }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/fSn8e"
+            }
+          }
+        ],
+        "backgroundColor": "#3434ff"
       }
     }
   ]
 }
-},{
-  "type": "flex",
-  "altText": "You received a message",
-  "contents": {
-  "type": "bubble",
-  "size": "giga",
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "button",
-        "action": {
-          "type": "uri",
-          "label": "สมัครรับโบนัส 123PGBET",
-          "uri": "https://t.ly/F14Yj"
-        },
-        "style": "primary"
-      }
-    ]
-  }
 }
-}
-
 ]
