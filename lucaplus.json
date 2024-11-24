@@ -141,6 +141,7 @@
     "cornerRadius": "xs",
     "borderColor": "#9900FF"
   }
+}
 },
 {
   "type": "flex",
@@ -283,4 +284,4 @@
   ]
 }
 }
-}]
+]
