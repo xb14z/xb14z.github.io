@@ -1,0 +1,286 @@
+[{
+  "type": "flex",
+  "altText": "พี่คะตอบเเชทหน่อยได้ไหมคะ😍",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🔥เว็บตรง แตกง่าย ถอนได้จริง 🔥",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFFF00",
+        "size": "lg",
+        "offsetBottom": "lg",
+        "action": {
+          "type": "uri",
+          "label": "WINK889+",
+          "uri": "https://t.ly/9qPIc"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/FreeCredit.jpg",
+        "size": "full",
+        "offsetBottom": "md",
+        "action": {
+          "type": "uri",
+          "label": "WINK889+",
+          "uri": "https://t.ly/9qPIc"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครวันนี้รับเครดิตฟรี 50 ทันที",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FFFF00",
+            "size": "md",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "🧧ทำยอดน้อยถอนได้จริง กดรับเองที่หน้าเว็บ🧧",
+            "align": "center",
+            "weight": "bold",
+            "color": "#ffffff",
+            "size": "sm",
+            "wrap": true,
+            "offsetTop": "xs",
+            "action": {
+              "type": "uri",
+              "label": "WINK889+",
+              "uri": "https://t.ly/9qPIc"
+            }
+          }
+        ],
+        "margin": "none"
+      },
+      {
+        "type": "text",
+        "text": "❗️🔻โปรโมชั่นสุดพิเศษ🔻❗️",
+        "align": "center",
+        "weight": "bold",
+        "color": "#ffffff",
+        "size": "xs",
+        "margin": "md",
+        "offsetBottom": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/pro11-120.jpg",
+            "size": "xl"
+          },
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/pro29-139.jpg",
+            "size": "xl"
+          },
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/pro29-139.jpg",
+            "size": "xl"
+          }
+        ],
+        "spacing": "sm",
+        "action": {
+          "type": "uri",
+          "label": "WINK889+",
+          "uri": "https://t.ly/9qPIc"
+        }
+      },
+      {
+        "type": "text",
+        "text": "🔻 สมัครสมาชิกรับเครดิตฟรีกดปุ่มด้านล่าง🔻",
+        "align": "center",
+        "weight": "bold",
+        "color": "#ffffff",
+        "size": "xs",
+        "margin": "sm",
+        "wrap": true,
+        "offsetTop": "xs"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉🏼 กดปุ่มนี้เพื่อรับเครดิตฟรี 👈🏼",
+              "uri": "https://t.ly/9qPIc"
+            },
+            "style": "primary",
+            "gravity": "center"
+          }
+        ],
+        "offsetTop": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    },
+    "borderWidth": "bold",
+    "cornerRadius": "xs",
+    "borderColor": "#9900FF"
+  }
+},
+{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/pro11-120.jpg",
+        "size": "full",
+        "aspectMode": "fit",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/dWZsN"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/dWZsN"
+            }
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/pro29-139.jpg",
+        "size": "full",
+        "aspectMode": "fit",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/dWZsN"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/dWZsN"
+            }
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/pro49-199.jpg",
+        "size": "full",
+        "aspectMode": "fit",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/dWZsN"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/dWZsN"
+            }
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/pro99-400.jpg",
+        "size": "full",
+        "aspectMode": "fit",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/dWZsN"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/63150.png",
+            "size": "full",
+            "offsetTop": "none",
+            "aspectRatio": "3:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/dWZsN"
+            }
+          }
+        ],
+        "backgroundColor": "#000000"
+      }
+    }
+  ]
+}
+}
+}]
