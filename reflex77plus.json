@@ -1,0 +1,150 @@
+[{
+  "type": "flex",
+  "altText": "มีเงินเข้าจำนวน 1000.00 จาก KBANK/เข้าX120451",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเเล้ว 5,487 User",
+          "uri": "https://t.ly/g0EZ5"
+        },
+        "margin": "none",
+        "color": "#FF0000",
+        "offsetBottom": "xxl",
+        "offsetTop": "none",
+        "height": "sm",
+        "style": "primary"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderColor": "#FF0000",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "offsetTop": "lg"
+  },
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://reflex77plus.cloud4.ltd/img/Cd1.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/g0EZ5"
+        },
+        "animated": true
+      }
+    ],
+    "borderColor": "#FF0000",
+    "borderWidth": "bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "✅เเจกเครดิตฟรีส่งท้ายปี สมาชิกใหม่ไม่ต้องฝากก่อนรับง่ายเพียงสมัครสมาชิก จำกัด 8,000 User‼️ ",
+        "align": "center",
+        "size": "sm",
+        "color": "#FFFFFF",
+        "offsetBottom": "xxl",
+        "wrap": true,
+        "weight": "bold",
+        "margin": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/g0EZ5"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://reflex77plus.cloud4.ltd/img/pro8-108.jpg",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/zEOYU"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://reflex77plus.cloud4.ltd/img/pro29-159.jpg",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/zEOYU"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://reflex77plus.cloud4.ltd/img/pro59-199.jpg",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/zEOYU"
+            }
+          }
+        ],
+        "offsetBottom": "xxl",
+        "margin": "xl",
+        "spacing": "xs"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "borderColor": "#FF0000"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://t.ly/g0EZ5"
+        },
+        "style": "primary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "none",
+        "color": "#FFCC00",
+        "offsetBottom": "none"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "margin": "none",
+    "spacing": "xxl",
+    "borderWidth": "bold",
+    "borderColor": "#FF0000"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#FF0000"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]
