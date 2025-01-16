@@ -1,0 +1,141 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเเล้ว 60,987 คน",
+          "uri": "https://t.ly/n27fV"
+        },
+        "margin": "none",
+        "color": "#00FF00",
+        "offsetBottom": "xxl",
+        "offsetTop": "none",
+        "height": "sm",
+        "style": "primary"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderColor": "#00FF00",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "offsetTop": "lg"
+  },
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/017493fabae19154c7.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/n27fV"
+        },
+        "animated": true
+      }
+    ],
+    "borderColor": "#00FF00",
+    "borderWidth": "bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตสมาชิกใหม่ไม่ต้องฝากก่อน ทำรายการผ่านระบบอัตโนมัติ รับง่ายเพียงสมัครสมาชิก เล่นได้ทุกค่ายเกม",
+        "align": "center",
+        "size": "xs",
+        "color": "#ffffff",
+        "offsetBottom": "xxl",
+        "wrap": true,
+        "weight": "bold",
+        "margin": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/n27fV"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/12345e599c8b9e09b2927.png",
+        "size": "full",
+        "aspectRatio": "5:1",
+        "offsetBottom": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/n27fV"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "offsetBottom": "xxl"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "borderColor": "#00FF00"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://t.ly/n27fV"
+        },
+        "style": "primary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "none",
+        "color": "#00FF00"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาขิก",
+          "uri": "https://t.ly/R86Xr"
+        },
+        "style": "secondary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "sm",
+        "color": "#FFCC00"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "margin": "none",
+    "spacing": "xxl",
+    "borderWidth": "bold",
+    "borderColor": "#00FF00"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#00FF00"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]
