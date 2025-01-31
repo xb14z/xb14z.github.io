@@ -1,0 +1,146 @@
+[{
+  "type": "flex",
+  "altText": "❤️ได้รับทุนฟรี 50 บาท เฉพาะคุณลูกค้า คลิก‼️",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🔥เว็บตรง แตกง่าย ถอนได้จริง🔥",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFFF00",
+        "size": "lg",
+        "offsetBottom": "lg",
+        "action": {
+          "type": "uri",
+          "label": "HOTPLAY112",
+          "uri": "https://heylink.me/slotfree50"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://i.postimg.cc/vZ09Hc3T/1.jpg",
+        "size": "full",
+        "offsetBottom": "md",
+        "action": {
+          "type": "uri",
+          "label": "HOTPLAY112",
+          "uri": "https://heylink.me/slotfree50"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครวันนี้รับเครดิตฟรี 50 ทันที",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FFFF00",
+            "size": "md",
+            "wrap": true
+          },
+          {
+            "type": "text",
+            "text": "🧧ทำยอดน้อยถอนได้จริง กดรับเองที่หน้าเว็บ🧧",
+            "align": "center",
+            "weight": "bold",
+            "color": "#ffffff",
+            "size": "sm",
+            "wrap": true,
+            "offsetTop": "xs",
+            "action": {
+              "type": "uri",
+              "label": "HOTPLAY112",
+              "uri": "https://heylink.me/slotfree50"
+            }
+          }
+        ],
+        "margin": "none"
+      },
+      {
+        "type": "text",
+        "text": "❗️🔻โปรโมชั่นสุดพิเศษ🔻❗️",
+        "align": "center",
+        "weight": "bold",
+        "color": "#ffffff",
+        "size": "xs",
+        "margin": "md",
+        "offsetBottom": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/YSjF4Ms3/10-100.jpg",
+            "size": "xl"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/3w6vmzMH/25-150.jpg",
+            "size": "xl"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/zDTgHd09/100-500.jpg",
+            "size": "xl"
+          }
+        ],
+        "spacing": "sm",
+        "action": {
+          "type": "uri",
+          "label": "HOTPLAY112",
+          "uri": "https://heylink.me/slotfree50"
+        }
+      },
+      {
+        "type": "text",
+        "text": "🔻 สมัครสมาชิกรับเครดิตฟรีกดปุ่มด้านล่าง🔻",
+        "align": "center",
+        "weight": "bold",
+        "color": "#ffffff",
+        "size": "xs",
+        "margin": "sm",
+        "wrap": true,
+        "offsetTop": "xs"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉🏼 กดปุ่มนี้เพื่อรับเครดิตฟรี 👈🏼",
+              "uri": "https://heylink.me/slotfree50"
+            },
+            "style": "secondary",
+            "gravity": "center",
+            "color": "#FFFF33"
+          }
+        ],
+        "offsetTop": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    },
+    "borderWidth": "bold",
+    "cornerRadius": "xs",
+    "borderColor": "#FF0000"
+  }
+}
+}]
