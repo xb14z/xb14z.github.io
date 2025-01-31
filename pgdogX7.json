@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "❤️แจกฟรี 50 เปิดค่ายใหม่ แจกจริง ไม่ต้องฝาก กดรับเองที่หน้าเว็บ ✅",
+  "altText": "❤️แจกฟรี 50 เปิดค่ายใหม่ แจกจริง ไม่ต้องฝาก กดรับเองที่หน้าเว็บ✅",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,12 +10,12 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/wTpS5Kg6/image.jpg",
+        "url": "https://i.postimg.cc/RhYgZczW/image.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "NAINOI888",
-          "uri": "https://heylink.me/richmegame/"
+          "label": "PGSLOT559",
+          "uri": "https://heylink.me/freee24/"
         }
       },
       {
@@ -36,8 +36,8 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "NAINOI888",
-          "uri": "https://heylink.me/richmegame/"
+          "label": "PGSLOT559",
+          "uri": "https://heylink.me/freee24/"
         }
       },
       {
@@ -53,32 +53,32 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/c4BPXDLf/10-100.jpg",
+            "url": "https://i.postimg.cc/1R7CBZNy/10-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/nhdgtC7z/25-150.jpg",
+            "url": "https://i.postimg.cc/RV3PbbcK/25-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/ZRNM3HQB/100-500.jpg",
+            "url": "https://i.postimg.cc/m20dxNwq/100-500.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "NAINOI888",
-          "uri": "https://heylink.me/richmegame/"
+          "label": "PGSLOT559",
+          "uri": "https://heylink.me/freee24/"
         },
         "spacing": "none"
       }
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FF3300",
+    "borderColor": "#33FFFF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -99,7 +99,7 @@
         "action": {
           "type": "uri",
           "label": "👉🏼 กดปุ่มนี้เพื่อติดต่อรับเครดิตฟรี 👈🏼",
-          "uri": "https://heylink.me/richmegame/"
+          "uri": "https://heylink.me/freee24/"
         },
         "style": "secondary",
         "color": "#FFFF66"
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FF3300"
+      "centerColor": "#33FFFF"
     },
-    "borderColor": "#FF3300",
+    "borderColor": "#33FFFF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
