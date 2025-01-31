@@ -1,0 +1,127 @@
+[{
+  "type": "flex",
+  "altText": "❤️แจกฟรี เพียงแค่ลงทะเบียนรับเลย 50 บาท",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://i.postimg.cc/1tCcG4pY/1.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "JAONAI369",
+          "uri": "https://heylink.me/slotpggame55"
+        }
+      },
+      {
+        "type": "text",
+        "text": "🎁แจกฟรี 50 เป็นสมาชิกกับเราตอนนี้🔥",
+        "color": "#FFFF00",
+        "align": "center",
+        "offsetTop": "md",
+        "gravity": "center",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "✅เปิดค่ายใหม่ แจกจริง กดรับเองที่หน้าเว็บ✅",
+        "offsetTop": "md",
+        "color": "#FFFF00",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "JAONAI369",
+          "uri": "https://heylink.me/slotpggame55"
+        }
+      },
+      {
+        "type": "text",
+        "text": "🔥โปรโมชั่นแนะนำ🔥",
+        "offsetTop": "md",
+        "color": "#FFFF00",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/zvyw057D/10-100-2.jpg",
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/XNPkXGNr/25-150.jpg",
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/65GLZWTY/100-500.jpg",
+            "size": "lg"
+          }
+        ],
+        "offsetTop": "lg",
+        "action": {
+          "type": "uri",
+          "label": "JAONAI369",
+          "uri": "https://heylink.me/slotpggame55"
+        },
+        "spacing": "none"
+      }
+    ],
+    "paddingBottom": "xl",
+    "backgroundColor": "#000000",
+    "borderColor": "#0000FF",
+    "borderWidth": "semi-bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🔻 สมัครสมาชิกรับเครดิตฟรีกดปุ่มด้านล่าง🔻",
+        "weight": "regular",
+        "color": "#FFFF00",
+        "gravity": "center",
+        "align": "center",
+        "offsetBottom": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "👉🏼 กดปุ่มนี้เพื่อติดต่อรับเครดิตฟรี 👈🏼",
+          "uri": "https://heylink.me/slotpggame55"
+        },
+        "style": "secondary",
+        "color": "#FFFF66"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#0000FF"
+    },
+    "borderColor": "#0000FF",
+    "borderWidth": "semi-bold",
+    "paddingAll": "lg"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#000000",
+      "separator": true
+    }
+  }
+}
+}]
