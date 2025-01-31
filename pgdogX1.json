@@ -1,0 +1,127 @@
+[{
+  "type": "flex",
+  "altText": "รีบด่วน‼️แจกฟรี 50 บาท คุ้มกว่านี้ไม่มีอีกแล้ว คลิก‼️",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://i.postimg.cc/zv8pj4MV/2.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "SEXYVIP168",
+          "uri": "https://heylink.me/freeslot9/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "💲แจกฟรี เครดิตฟรี 50 บาท ทุกยูชเซอร์💲",
+        "color": "#FFFF00",
+        "align": "center",
+        "offsetTop": "md",
+        "gravity": "center",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "💗ไม่ต้องฝากก่อน กดรับเองที่หน้าเว็บ💗",
+        "offsetTop": "md",
+        "color": "#FFFF00",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "SEXYVIP168",
+          "uri": "https://heylink.me/freeslot9/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "🔥โปรโมชั่นสุดคุ้ม🔥",
+        "offsetTop": "md",
+        "color": "#FFFF00",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/3JL9XSZx/10-100.jpg",
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/TPb9XRvK/25-150.jpg",
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/DZdP8BZF/100-500.jpg",
+            "size": "lg"
+          }
+        ],
+        "offsetTop": "lg",
+        "action": {
+          "type": "uri",
+          "label": "SEXYVIP168",
+          "uri": "https://heylink.me/freeslot9/"
+        },
+        "spacing": "none"
+      }
+    ],
+    "paddingBottom": "xl",
+    "backgroundColor": "#000000",
+    "borderColor": "#FF9900",
+    "borderWidth": "semi-bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🔻 สมัครสมาชิกรับเครดิตฟรีกดปุ่มด้านล่าง🔻",
+        "weight": "regular",
+        "color": "#FFFF00",
+        "gravity": "center",
+        "align": "center",
+        "offsetBottom": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "👉🏼 กดปุ่มนี้เพื่อติดต่อรับเครดิตฟรี 👈🏼",
+          "uri": "https://heylink.me/freeslot9/"
+        },
+        "style": "secondary",
+        "color": "#FFFF00"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#FF9900"
+    },
+    "borderColor": "#FF9900",
+    "borderWidth": "semi-bold",
+    "paddingAll": "lg"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#000000",
+      "separator": true
+    }
+  }
+}
+}]
