@@ -10,12 +10,12 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://img2.imgbiz.com/imgbiz/free50---1.jpg",
+        "url": "https://i.postimg.cc/WbJn7qv7/1.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "SPEZ999",
-          "uri": "https://heylink.me/freee24/"
+          "label": "FAFA789",
+          "uri": "https://heylink.me/pokdeng88/"
         }
       },
       {
@@ -36,8 +36,8 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "SPEZ999",
-          "uri": "https://heylink.me/freee24/"
+          "label": "FAFA789",
+          "uri": "https://heylink.me/pokdeng88/"
         }
       },
       {
@@ -53,25 +53,25 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://img2.imgbiz.com/imgbiz/10-100a92f3791a31e11d3.jpg",
+            "url": "https://i.postimg.cc/13Grkx4n/10-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://img2.imgbiz.com/imgbiz/25-150.jpg",
+            "url": "https://i.postimg.cc/vmGtMP6P/25-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://img2.imgbiz.com/imgbiz/100-500.jpg",
+            "url": "https://i.postimg.cc/jjvQjzHR/100-500.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "SPEZ999",
-          "uri": "https://heylink.me/freee24/"
+          "label": "FAFA789",
+          "uri": "https://heylink.me/pokdeng88/"
         },
         "spacing": "none"
       },
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#33FF00",
+    "borderColor": "#FFFF00",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -97,7 +97,7 @@
         "action": {
           "type": "uri",
           "label": "👉🏼รับเครดิตฟรี👈🏼",
-          "uri": "https://heylink.me/freee24/"
+          "uri": "https://heylink.me/pokdeng88/"
         },
         "style": "secondary",
         "color": "#FFFF00",
@@ -109,7 +109,7 @@
         "action": {
           "type": "uri",
           "label": "❤️สมัครสมาชิก❤️",
-          "uri": "https://heylink.me/freee24/"
+          "uri": "https://heylink.me/pokdeng88/"
         },
         "style": "secondary",
         "margin": "none",
@@ -123,9 +123,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#33FF00"
+      "centerColor": "#FFFF00"
     },
-    "borderColor": "#33FF00",
+    "borderColor": "#FFFF00",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
