@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "‼️แจกฟรี 50 บาท คุ้มกว่านี้ไม่มีอีกแล้ว คลิก‼️",
+  "altText": "รีบด่วน‼️แจกฟรี 50 บาท คุ้มกว่านี้ไม่มีอีกแล้ว คลิก‼️",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/zv8pj4MV/2.jpg",
+        "url": "https://i.postimg.cc/26VbJj70/2.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "SEXYVIP168",
+          "label": "KAZE125",
           "uri": "https://t.ly/pgdogX1"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "SEXYVIP168",
+          "label": "KAZE125",
           "uri": "https://t.ly/pgdogX1"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/3JL9XSZx/10-100.jpg",
+            "url": "https://i.postimg.cc/15ctvNZ9/10-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/TPb9XRvK/25-150.jpg",
+            "url": "https://i.postimg.cc/hG7R3H79/25-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/DZdP8BZF/100-500.jpg",
+            "url": "https://i.postimg.cc/DZrk7L60/100-500.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "SEXYVIP168",
+          "label": "KAZE125",
           "uri": "https://t.ly/pgdogX1"
         },
         "spacing": "none"
