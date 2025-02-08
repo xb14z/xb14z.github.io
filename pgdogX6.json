@@ -18,18 +18,18 @@
         "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "C88ZEED",
+          "label": "GAMETOY888",
           "uri": "https://t.ly/pgdogX6"
         }
       },
       {
         "type": "image",
-        "url": "https://i.postimg.cc/WzhM3xkg/1.jpg",
+        "url": "https://i.postimg.cc/Vk6v2Hfv/image.jpg",
         "size": "full",
         "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "C88ZEED",
+          "label": "GAMETOY888",
           "uri": "https://t.ly/pgdogX6"
         }
       },
@@ -57,7 +57,7 @@
             "offsetTop": "xs",
             "action": {
               "type": "uri",
-              "label": "C88ZEED",
+              "label": "GAMETOY888",
               "uri": "https://t.ly/pgdogX6"
             }
           }
@@ -80,24 +80,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/rwS5K1Kn/10-100.jpg",
+            "url": "https://i.postimg.cc/XvBJYGy0/10-100.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/vBmnqCXk/25-150.jpg",
+            "url": "https://i.postimg.cc/MTkGM6yf/25-150.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/wMymHJCk/100-500.jpg",
+            "url": "https://i.postimg.cc/rmSw5BJn/100-500.jpg",
             "size": "xl"
           }
         ],
         "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "C88ZEED",
+          "label": "GAMETOY888",
           "uri": "https://t.ly/pgdogX6"
         }
       },
@@ -140,7 +140,7 @@
     },
     "borderWidth": "bold",
     "cornerRadius": "xs",
-    "borderColor": "#FF00FF"
+    "borderColor": "#0000FF"
   }
 }
 }]
