@@ -18,18 +18,18 @@
         "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "HOTPLAY112",
+          "label": "INWZA99",
           "uri": "https://t.ly/pgdogX2"
         }
       },
       {
         "type": "image",
-        "url": "https://i.postimg.cc/vZ09Hc3T/1.jpg",
+        "url": "https://i.postimg.cc/vZb2mmhK/free50-1.jpg",
         "size": "full",
         "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "HOTPLAY112",
+          "label": "INWZA99",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -57,7 +57,7 @@
             "offsetTop": "xs",
             "action": {
               "type": "uri",
-              "label": "HOTPLAY112",
+              "label": "INWZA99",
               "uri": "https://t.ly/pgdogX2"
             }
           }
@@ -80,24 +80,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/YSjF4Ms3/10-100.jpg",
+            "url": "https://i.postimg.cc/L8DCgM08/10-100.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/3w6vmzMH/25-150.jpg",
+            "url": "https://i.postimg.cc/yNNfFrwX/25-150.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/zDTgHd09/100-500.jpg",
+            "url": "https://i.postimg.cc/q7Z1Qxrf/100-500.jpg",
             "size": "xl"
           }
         ],
         "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "HOTPLAY112",
+          "label": "INWZA99",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -140,7 +140,7 @@
     },
     "borderWidth": "bold",
     "cornerRadius": "xs",
-    "borderColor": "#FF0000"
+    "borderColor": "#33FFFF"
   }
 }
 }]
