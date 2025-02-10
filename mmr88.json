@@ -1,0 +1,165 @@
+[{
+  "type": "flex",
+  "altText": "💖พี่คะ พี่ได้รับเงิน 57 บาทคะ✅"
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเเล้ว 60,987 คน",
+          "uri": "https://t.ly/0rSNw"
+        },
+        "margin": "none",
+        "color": "#FFCC00",
+        "offsetBottom": "xxl",
+        "offsetTop": "none",
+        "height": "sm",
+        "style": "primary"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderColor": "#FFFF33",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "offsetTop": "lg"
+  },
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://reflex77plus.cloud4.ltd/img_mmr88/creditfree.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/0rSNw"
+        },
+        "animated": true
+      }
+    ],
+    "borderColor": "#FFCC00",
+    "borderWidth": "bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "✅เเจกเครดิตสมาชิกใหม่ไม่ต้องฝากก่อน ทำรายการผ่านระบบอัตโนมัติ รับง่ายเพียงสมัครสมาชิก📌",
+        "align": "center",
+        "size": "xs",
+        "color": "#ffffff",
+        "offsetBottom": "xxl",
+        "wrap": true,
+        "weight": "bold",
+        "margin": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/0rSNw"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://reflex77plus.cloud4.ltd/img_mmr88/13-100.jpg",
+            "size": "full",
+            "offsetTop": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/NexWv"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://reflex77plus.cloud4.ltd/img_mmr88/19-129.jpg",
+            "size": "full",
+            "offsetTop": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/NexWv"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://reflex77plus.cloud4.ltd/img_mmr88/49-159.jpg",
+            "size": "full",
+            "offsetTop": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/NexWv"
+            }
+          }
+        ],
+        "offsetBottom": "xxl",
+        "spacing": "sm",
+        "margin": "lg"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "borderColor": "#FFCC00"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://t.ly/0rSNw"
+        },
+        "style": "secondary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "none",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาขิก",
+          "uri": "https://t.ly/NexWv"
+        },
+        "style": "primary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "sm",
+        "color": "#33FF00"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "margin": "none",
+    "spacing": "xxl",
+    "borderWidth": "bold",
+    "borderColor": "#FFCC00"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#FFCC00"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]
