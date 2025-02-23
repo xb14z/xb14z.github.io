@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/3wky0fVV/psd-50-NEW.jpg",
+        "url": "https://i.postimg.cc/zXvPDTfP/free50-Copy.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "WIPWUB789",
+          "label": "TIGERBET33",
           "uri": "https://t.ly/pgdogX5"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "WIPWUB789",
+          "label": "TIGERBET33",
           "uri": "https://t.ly/pgdogX5"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/SKHn67ps/10-100.jpg",
+            "url": "https://i.postimg.cc/Fs6CY1dF/10-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/W3rhXF27/25-150.jpg",
+            "url": "https://i.postimg.cc/FHJW3m3y/25-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/x82q7f8V/100-500.jpg",
+            "url": "https://i.postimg.cc/FK5PxqV2/100-500.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "WIPWUB789",
+          "label": "TIGERBET33",
           "uri": "https://t.ly/pgdogX5"
         },
         "spacing": "none"
@@ -78,7 +78,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#CC00FF",
+    "borderColor": "#FF0000",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -102,7 +102,7 @@
           "uri": "https://t.ly/pgdogX5"
         },
         "style": "secondary",
-        "color": "#FFFF00"
+        "color": "#FFFF66"
       }
     ],
     "backgroundColor": "#000000",
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#CC00FF"
+      "centerColor": "#FF0000"
     },
-    "borderColor": "#CC00FF",
+    "borderColor": "#FF0000",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
