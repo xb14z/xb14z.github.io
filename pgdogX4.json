@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/3xC1bNwY/free50-2.jpg",
+        "url": "https://i.postimg.cc/FFbqsdxJ/3.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "PAY369",
+          "label": "BOMBSLOTY168",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "PAY369",
+          "label": "BOMBSLOTY168",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/Jhrxw8yJ/10-100.jpg",
+            "url": "https://i.postimg.cc/jds1Wx83/10-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/wBwVgrJr/25-150.jpg",
+            "url": "https://i.postimg.cc/YqbsY5Zr/25-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/nzM1z1Gh/100-500.jpg",
+            "url": "https://i.postimg.cc/9Q0NpxHG/100-500.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "PAY369",
+          "label": "BOMBSLOTY168",
           "uri": "https://t.ly/pgdogX4"
         },
         "spacing": "none"
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FF9933",
+    "borderColor": "#33FFFF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -123,9 +123,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FF9933"
+      "centerColor": "#33FFFF"
     },
-    "borderColor": "#FF9933",
+    "borderColor": "#33FFFF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
