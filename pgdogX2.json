@@ -18,18 +18,18 @@
         "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "INWZA99",
+          "label": "OREO77",
           "uri": "https://t.ly/pgdogX2"
         }
       },
       {
         "type": "image",
-        "url": "https://i.postimg.cc/vZb2mmhK/free50-1.jpg",
+        "url": "https://i.postimg.cc/W383spYL/psd-50-NEW.jpg",
         "size": "full",
         "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "INWZA99",
+          "label": "OREO77",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -57,7 +57,7 @@
             "offsetTop": "xs",
             "action": {
               "type": "uri",
-              "label": "INWZA99",
+              "label": "OREO77",
               "uri": "https://t.ly/pgdogX2"
             }
           }
@@ -80,24 +80,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/L8DCgM08/10-100.jpg",
+            "url": "https://i.postimg.cc/90ff03s4/10-100.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/yNNfFrwX/25-150.jpg",
+            "url": "https://i.postimg.cc/d3SVTHK5/25-150.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/q7Z1Qxrf/100-500.jpg",
+            "url": "https://i.postimg.cc/L4yX7XZj/100-500.jpg",
             "size": "xl"
           }
         ],
         "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "INWZA99",
+          "label": "OREO77",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -140,7 +140,7 @@
     },
     "borderWidth": "bold",
     "cornerRadius": "xs",
-    "borderColor": "#33FFFF"
+    "borderColor": "#FF33FF"
   }
 }
 }]
