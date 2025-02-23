@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/sgQyYFfY/1.jpg",
+        "url": "https://i.postimg.cc/bwbgdgfL/2.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "NALDO77",
+          "label": "PIGGY89",
           "uri": "https://t.ly/pgdogX7"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "NALDO77",
+          "label": "PIGGY89",
           "uri": "https://t.ly/pgdogX7"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/Dw9h5Cmt/10-100.jpg",
+            "url": "https://i.postimg.cc/8CSHvv1G/10-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/1zDQdpq4/25-150.jpg",
+            "url": "https://i.postimg.cc/R0LTL0FH/25-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/Qts3ZHQm/100-500.jpg",
+            "url": "https://i.postimg.cc/HxW9ZCcP/100-500.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "NALDO77",
+          "label": "PIGGY89",
           "uri": "https://t.ly/pgdogX7"
         },
         "spacing": "none"
@@ -78,7 +78,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FF33FF",
+    "borderColor": "#9900FF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FF33FF"
+      "centerColor": "#9900FF"
     },
-    "borderColor": "#FF33FF",
+    "borderColor": "#9900FF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
