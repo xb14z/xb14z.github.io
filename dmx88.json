@@ -1,0 +1,165 @@
+[{
+  "type": "flex",
+  "altText": "พี่คะคิดถึงหนูไหมคะ💓",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเเล้ว 60,987 คน",
+          "uri": "https://t.ly/3kIxU"
+        },
+        "margin": "none",
+        "color": "#FFCC00",
+        "offsetBottom": "xxl",
+        "offsetTop": "none",
+        "height": "sm",
+        "style": "primary"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderColor": "#FFFF33",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "offsetTop": "lg"
+  },
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sms.cloud4.ltd/Img_dmx88/FREE2.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/3kIxU"
+        },
+        "animated": true
+      }
+    ],
+    "borderColor": "#FFCC00",
+    "borderWidth": "bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "✅เเจกเครดิตสมาชิกใหม่ไม่ต้องฝากก่อน ทำรายการผ่านระบบอัตโนมัติ รับง่ายเพียงสมัครสมาชิก📌",
+        "align": "center",
+        "size": "xs",
+        "color": "#ffffff",
+        "offsetBottom": "xxl",
+        "wrap": true,
+        "weight": "bold",
+        "margin": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/3kIxU"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sms.cloud4.ltd/Img_dmx88/12.png",
+            "size": "full",
+            "offsetTop": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/3kIxU"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sms.cloud4.ltd/Img_dmx88/23.png",
+            "size": "full",
+            "offsetTop": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/3kIxU"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://sms.cloud4.ltd/Img_dmx88/79.png",
+            "size": "full",
+            "offsetTop": "none",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://t.ly/3kIxU"
+            }
+          }
+        ],
+        "offsetBottom": "xxl",
+        "spacing": "sm",
+        "margin": "lg"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "borderColor": "#FFCC00"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://t.ly/3kIxU"
+        },
+        "style": "secondary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "none",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาขิก",
+          "uri": "https://t.ly/oz7E_"
+        },
+        "style": "primary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "sm",
+        "color": "#33FF00"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "margin": "none",
+    "spacing": "xxl",
+    "borderWidth": "bold",
+    "borderColor": "#FFCC00"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#FFCC00"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}]
