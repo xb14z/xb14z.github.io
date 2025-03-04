@@ -18,18 +18,18 @@
         "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "FIFA88",
+          "label": "BETPLAY168",
           "uri": "https://t.ly/pgdogX6"
         }
       },
       {
         "type": "image",
-        "url": "https://i.postimg.cc/XJxQ4v6b/image.jpg",
+        "url": "https://i.postimg.cc/q7QzMW3r/image.jpg",
         "size": "full",
         "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "FIFA88",
+          "label": "BETPLAY168",
           "uri": "https://t.ly/pgdogX6"
         }
       },
@@ -57,7 +57,7 @@
             "offsetTop": "xs",
             "action": {
               "type": "uri",
-              "label": "FIFA88",
+              "label": "BETPLAY168",
               "uri": "https://t.ly/pgdogX6"
             }
           }
@@ -80,24 +80,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/nrzTztnQ/10-100.jpg",
+            "url": "https://i.postimg.cc/yNJ8sWsm/10-100.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/yxbj3rNp/25-150.jpg",
+            "url": "https://i.postimg.cc/hvvC5F9t/25-150.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/m2P8WRdv/100-500.jpg",
+            "url": "https://i.postimg.cc/8kbJyJ5c/100-500.jpg",
             "size": "xl"
           }
         ],
         "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "FIFA88",
+          "label": "BETPLAY168",
           "uri": "https://t.ly/pgdogX6"
         }
       },
@@ -140,7 +140,7 @@
     },
     "borderWidth": "bold",
     "cornerRadius": "xs",
-    "borderColor": "#33FF00"
+    "borderColor": "#FF00FF"
   }
 }
 }]
