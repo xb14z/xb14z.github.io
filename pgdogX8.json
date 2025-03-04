@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/cLM3VbSq/image.jpg",
+        "url": "https://i.postimg.cc/zGDcLPt7/3.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "SLOTWIN888",
+          "label": "AOXBET223",
           "uri": "https://t.ly/pgdogX8"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "SLOTWIN888",
+          "label": "AOXBET223",
           "uri": "https://t.ly/pgdogX8"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/0NkSx0kz/10-100.jpg",
+            "url": "https://i.postimg.cc/xTpKRxjt/10-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/SKgMKYRD/25-150.jpg",
+            "url": "https://i.postimg.cc/DZfZRhBs/25-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/qRgC6BC0/100-500.jpg",
+            "url": "https://i.postimg.cc/7ZVb9bND/100-500.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "SLOTWIN888",
+          "label": "AOXBET223",
           "uri": "https://t.ly/pgdogX8"
         },
         "spacing": "none"
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FFFF00",
+    "borderColor": "#0000FF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -123,9 +123,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FFFF00"
+      "centerColor": "#0000FF"
     },
-    "borderColor": "#FFFF00",
+    "borderColor": "#0000FF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
