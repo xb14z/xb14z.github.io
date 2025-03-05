@@ -1,0 +1,139 @@
+[{
+  "type": "flex",
+  "altText": "🩷แจกคูปองมูลค่า 50 บาท รับง่ายไม่ต้องฝากก่อน ไม่ต้องทำกิจกรรม💸",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://i.postimg.cc/y8zm7stq/FREE22.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "ONLY88",
+          "uri": "https://t.ly/only88"
+        }
+      },
+      {
+        "type": "text",
+        "text": "📢สมาชิกใหม่ ลงทะเบียนรับ 50 บาท🎲",
+        "color": "#FFFF00",
+        "align": "center",
+        "offsetTop": "md",
+        "gravity": "center",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "💸รับได้ทุกยูสเซอร์ แจกจริง ไม่ต้องฝากก่อน💸",
+        "offsetTop": "md",
+        "color": "#FFFF00",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "ONLY88",
+          "uri": "https://t.ly/pgdogX8"
+        }
+      },
+      {
+        "type": "text",
+        "text": "✨โปรโมชั่นมาแรง✨",
+        "offsetTop": "md",
+        "color": "#FFFF00",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/j27NX8gN/19-100.jpg",
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/zfQVcCRk/29-150.jpg",
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://i.postimg.cc/BZTnT9Np/99-200.jpg",
+            "size": "lg"
+          }
+        ],
+        "offsetTop": "lg",
+        "action": {
+          "type": "uri",
+          "label": "ONLY88",
+          "uri": "https://t.ly/only88"
+        },
+        "spacing": "none"
+      },
+      {
+        "type": "text",
+        "text": "🔻 สมัครสมาชิกรับเครดิตฟรีกดปุ่มด้านล่าง🔻",
+        "align": "center",
+        "color": "#FFFF00",
+        "offsetTop": "xl"
+      }
+    ],
+    "paddingBottom": "xl",
+    "backgroundColor": "#000000",
+    "borderColor": "#9900CC",
+    "borderWidth": "semi-bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "👉🏼รับเครดิตฟรี👈🏼",
+          "uri": "https://t.ly/only88"
+        },
+        "style": "secondary",
+        "color": "#FFFF00",
+        "margin": "none",
+        "offsetEnd": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "❤️สมัครสมาชิก❤️",
+          "uri": "https://t.ly/only88"
+        },
+        "style": "secondary",
+        "margin": "none",
+        "color": "#66FF00",
+        "offsetStart": "sm"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#9900CC"
+    },
+    "borderColor": "#9900CC",
+    "borderWidth": "semi-bold",
+    "paddingAll": "lg"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#000000",
+      "separator": true
+    }
+  }
+}
+}]
