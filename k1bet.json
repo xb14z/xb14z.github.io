@@ -1,6 +1,6 @@
-{
+[{
   "type": "flex",
-  "altText": "พี่คะคิดถึงหนูไหมคะ",
+  "altText": "You received a message",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -138,4 +138,4 @@
     }
   }
 }
-}
+}]
