@@ -1,0 +1,141 @@
+{
+  "type": "flex",
+  "altText": "พี่คะคิดถึงหนูไหมคะ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเเล้ว 60,987 คน",
+          "uri": "https://t.ly/id2G8"
+        },
+        "margin": "none",
+        "color": "#3366FF",
+        "offsetBottom": "xxl",
+        "offsetTop": "none",
+        "height": "sm",
+        "style": "primary"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderColor": "#3366FF",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "offsetTop": "lg"
+  },
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/creditfree100-123z1apgbet-Recovered42e986093e6f9ca4.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/id2G8"
+        },
+        "animated": true
+      }
+    ],
+    "borderColor": "#3366FF",
+    "borderWidth": "bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตสมาชิกใหม่ไม่ต้องฝากก่อน ทำรายการผ่านระบบอัตโนมัติ รับง่ายเพียงสมัครสมาชิก เล่นได้ทุกค่ายเกม",
+        "align": "center",
+        "size": "xs",
+        "color": "#ffffff",
+        "offsetBottom": "xxl",
+        "wrap": true,
+        "weight": "bold",
+        "margin": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/id2G8"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/12345e599c8b9e09b2927.png",
+        "size": "full",
+        "aspectRatio": "5:1",
+        "offsetBottom": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://t.ly/id2G8"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "offsetBottom": "xxl"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "borderColor": "#3366FF"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://t.ly/id2G8"
+        },
+        "style": "primary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "none",
+        "color": "#3366FF"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาขิก",
+          "uri": "https://t.ly/F14Yj"
+        },
+        "style": "primary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "sm",
+        "color": "#33FF00"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "margin": "none",
+    "spacing": "xxl",
+    "borderWidth": "bold",
+    "borderColor": "#3366FF"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#3366FF"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+}
