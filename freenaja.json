@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "🩷แจกคูปองมูลค่า 50 บาท รับง่ายไม่ต้องฝากก่อน ไม่ต้องทำกิจกรรม💸",
+  "altText": "❤️คุณได้สิทธิ์รับเงินฟรี 50 บาท สมัครเลย!💸",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,12 +10,12 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/y8zm7stq/FREE22.jpg",
+        "url": "https://i.postimg.cc/Zqx3WYZW/1.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "ONLY88",
-          "uri": "https://line.me/R/ti/p/@997hedfs"
+          "label": "MEPLAY789",
+          "uri": "https://t.ly/meplay789"
         }
       },
       {
@@ -36,8 +36,8 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "ONLY88",
-          "uri": "https://line.me/R/ti/p/@997hedfs"
+          "label": "MEPLAY789",
+          "uri": "https://t.ly/meplay789"
         }
       },
       {
@@ -53,25 +53,25 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/j27NX8gN/19-100.jpg",
+            "url": "https://i.postimg.cc/fLWdm4TB/5-30.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/zfQVcCRk/29-150.jpg",
+            "url": "https://i.postimg.cc/50PCmPX1/10-70.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/BZTnT9Np/99-200.jpg",
+            "url": "https://i.postimg.cc/2yVB94WW/15-100.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "ONLY88",
-          "uri": "https://line.me/R/ti/p/@997hedfs"
+          "label": "MEPLAY789",
+          "uri": "https://t.ly/meplay789"
         },
         "spacing": "none"
       },
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#9900CC",
+    "borderColor": "#FF0000",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -97,7 +97,7 @@
         "action": {
           "type": "uri",
           "label": "👉🏼รับเครดิตฟรี👈🏼",
-          "uri": "https://line.me/R/ti/p/@997hedfs"
+          "uri": "https://t.ly/meplay789"
         },
         "style": "secondary",
         "color": "#FFFF00",
@@ -109,7 +109,7 @@
         "action": {
           "type": "uri",
           "label": "❤️สมัครสมาชิก❤️",
-          "uri": "https://line.me/R/ti/p/@997hedfs"
+          "uri": "https://t.ly/meplay789"
         },
         "style": "secondary",
         "margin": "none",
@@ -123,9 +123,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#9900CC"
+      "centerColor": "#FF0000"
     },
-    "borderColor": "#9900CC",
+    "borderColor": "#FF0000",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
