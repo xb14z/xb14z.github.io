@@ -1,0 +1,226 @@
+[{
+  "type": "flex",
+  "altText": "พี่คะหนูคิกถึงพี่มากเลยนะคะ💖",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเเล้ว 60,987 คน",
+          "uri": "https://bizlink.ltd/l2"
+        },
+        "margin": "none",
+        "color": "#FFCC00",
+        "offsetBottom": "xxl",
+        "offsetTop": "none",
+        "height": "sm",
+        "style": "primary"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderColor": "#FFCC00",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "offsetTop": "lg"
+  },
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://cloud4.ltd/img/free1.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bizlink.ltd/l2"
+        },
+        "animated": true
+      }
+    ],
+    "borderColor": "#FFCC00",
+    "borderWidth": "bold"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกเครดิตฟรี 57 บาท สมาชิกใหม่ไม่ต้องฝากก่อน ทำรายการผ่านระบบอัตโนมัติ รับง่ายเพียงสมัครสมาชิก",
+        "align": "center",
+        "size": "xs",
+        "color": "#ffffff",
+        "offsetBottom": "xxl",
+        "wrap": true,
+        "weight": "bold",
+        "margin": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bizlink.ltd/l2"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/12345e599c8b9e09b2927.png",
+        "size": "full",
+        "aspectRatio": "5:1",
+        "offsetBottom": "lg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bizlink.ltd/l2"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [],
+        "offsetBottom": "xxl"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderWidth": "bold",
+    "cornerRadius": "none",
+    "borderColor": "#FFCC00"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "✅รับเครดิตฟรี 57 บาท🔥",
+          "uri": "https://bizlink.ltd/l2"
+        },
+        "style": "secondary",
+        "margin": "none",
+        "height": "sm",
+        "offsetTop": "none",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาขิก",
+          "uri": "https://bizlink.ltd/l2"
+        },
+        "style": "primary",
+        "margin": "none",
+        "height": "md",
+        "offsetTop": "sm",
+        "color": "#33FF00"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "margin": "none",
+    "spacing": "xxl",
+    "borderWidth": "bold",
+    "borderColor": "#FFCC00"
+  },
+  "styles": {
+    "header": {
+      "backgroundColor": "#FFCC00"
+    },
+    "body": {
+      "backgroundColor": "#000000"
+    }
+  }
+}
+},
+{
+  "type": "flex",
+  "altText": "พี่คะหนูคิกถึงพี่มากเลยนะคะ💖",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cloud4.ltd/img/29-149.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🔥รับโบนัสฟรี✅",
+              "uri": "https://game.electrik.ltd/login"
+            },
+            "style": "primary",
+            "color": "#000000"
+          }
+        ],
+        "backgroundColor": "#FFCC00"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cloud4.ltd/img/59-239.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🔥รับโบนัสฟรี✅",
+              "uri": "https://game.electrik.ltd/login"
+            },
+            "style": "primary",
+            "color": "#000000"
+          }
+        ],
+        "backgroundColor": "#FFCC00"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://cloud4.ltd/img/89-329.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "🔥รับโบนัสฟรี✅",
+              "uri": "https://game.electrik.ltd/login"
+            },
+            "style": "primary",
+            "color": "#000000"
+          }
+        ],
+        "backgroundColor": "#FFCC00"
+      }
+    }
+  ]
+}
+}
+]
