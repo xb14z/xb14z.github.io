@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "รีบด่วน‼️แจกฟรี 50 บาท คุ้มกว่านี้ไม่มีอีกแล้ว คลิก‼️",
+  "altText": "📢คุณได้สิทธิ์ปั่น สล็อตฟรี 500 กดรับเลย",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/0Ng6qy6P/psd-50-NEW.jpg",
+        "url": "https://i.postimg.cc/G2vYbQcW/2.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "ME156AUTO",
+          "label": "FAST99",
           "uri": "https://t.ly/pgdogX1"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "ME156AUTO",
+          "label": "FAST99",
           "uri": "https://t.ly/pgdogX1"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/nLvXVf77/10-100.jpg",
+            "url": "https://i.postimg.cc/d191WSQV/9-30.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/HxdVVv4N/25-150.jpg",
+            "url": "https://i.postimg.cc/x8xdQJzr/15-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/NMDLT8dj/100-500.jpg",
+            "url": "https://i.postimg.cc/xjt8M7Fs/29-100.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "ME156AUTO",
+          "label": "FAST99",
           "uri": "https://t.ly/pgdogX1"
         },
         "spacing": "none"
@@ -78,7 +78,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#33FFFF",
+    "borderColor": "#FFFF00",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -98,11 +98,11 @@
         "type": "button",
         "action": {
           "type": "uri",
-          "label": "👉🏼 กดปุ่มนี้เพื่อติดต่อรับเครดิตฟรี 👈🏼",
+          "label": "👉 กดปุ่มนี้เพื่อติดต่อรับเครดิตฟรี 👈",
           "uri": "https://t.ly/pgdogX1"
         },
         "style": "secondary",
-        "color": "#FFFF00"
+        "color": "#33FF00"
       }
     ],
     "backgroundColor": "#000000",
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#33FFFF"
+      "centerColor": "#FFFF00"
     },
-    "borderColor": "#33FFFF",
+    "borderColor": "#FFFF00",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
