@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "❤️แจกฟรี เพียงแค่ลงทะเบียนรับเลย 50 บาท",
+  "altText": "You received a message",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/vmHmyxYR/3.jpg",
+        "url": "https://i.postimg.cc/52LpC2nw/2.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "SWAN65",
+          "label": "DUCK123",
           "uri": "https://t.ly/pgdogX3"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "SWAN65",
+          "label": "DUCK123",
           "uri": "https://t.ly/pgdogX3"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/YqKq9srz/10-100.jpg",
+            "url": "https://i.postimg.cc/LsSDBFbG/9-30.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/cLdx7t8K/25-150.jpg",
+            "url": "https://i.postimg.cc/V6LFpB1R/15-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/4xwJW4zW/100-500.jpg",
+            "url": "https://i.postimg.cc/ZR7LSB5h/29-100.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "SWAN65",
+          "label": "DUCK123",
           "uri": "https://t.ly/pgdogX3"
         },
         "spacing": "none"
@@ -78,7 +78,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#66FF00",
+    "borderColor": "#33FF00",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#66FF00"
+      "centerColor": "#33FF00"
     },
-    "borderColor": "#66FF00",
+    "borderColor": "#33FF00",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
