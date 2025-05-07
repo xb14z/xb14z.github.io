@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "❤️ได้รับทุนฟรี 50 บาท เฉพาะคุณลูกค้า คลิก‼️",
+  "altText": "🎁ปั่นสล็อตฟรี ไม่ต้องมีทุน รับฟรี 500 บาท ที่นี่รับเลย",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -18,18 +18,18 @@
         "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "FAFA234",
+          "label": "POCKET78",
           "uri": "https://t.ly/pgdogX2"
         }
       },
       {
         "type": "image",
-        "url": "https://i.postimg.cc/MH46b9Vq/free50-Copy.jpg",
+        "url": "https://i.postimg.cc/Dfc5sK2H/2.jpg",
         "size": "full",
         "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "FAFA234",
+          "label": "POCKET78",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -57,7 +57,7 @@
             "offsetTop": "xs",
             "action": {
               "type": "uri",
-              "label": "FAFA234",
+              "label": "POCKET78",
               "uri": "https://t.ly/pgdogX2"
             }
           }
@@ -80,24 +80,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/VsHk8kTp/10-100.jpg",
+            "url": "https://i.postimg.cc/HsZ2Z48t/10-50.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/4ND4YFX1/20-150.jpg",
+            "url": "https://i.postimg.cc/PqZQ5g36/15-100.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/rw5VxCm2/100-1000.jpg",
+            "url": "https://i.postimg.cc/XNxcqcL0/25-100.jpg",
             "size": "xl"
           }
         ],
         "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "FAFA234",
+          "label": "POCKET78",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -140,7 +140,7 @@
     },
     "borderWidth": "bold",
     "cornerRadius": "xs",
-    "borderColor": "#9900FF"
+    "borderColor": "#6600FF"
   }
 }
 }]
