@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "❤️คุณได้รับโค้ดฟรี 50 บาท ง่ายๆเพียงสมัคร คลิก‼️",
+  "altText": "🎉ได้แล้ว!! เครดิตเงินคืน 1000 บาท เข้ารับเลยตอนนี้!",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/g2KPKnfm/2.jpg",
+        "url": "https://i.postimg.cc/26CsVkD1/image.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "THESTAR889",
+          "label": "P2G88",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "THESTAR889",
+          "label": "P2G88",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/XYqT9Qcc/10-100.jpg",
+            "url": "https://i.postimg.cc/QCtvJfVs/10-50.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/vmdtGmBg/25-150.jpg",
+            "url": "https://i.postimg.cc/L5bwCjZP/15-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/d38TH225/100-500.jpg",
+            "url": "https://i.postimg.cc/mZXvgW6r/25-100.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "THESTAR889",
+          "label": "P2G88",
           "uri": "https://t.ly/pgdogX4"
         },
         "spacing": "none"
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FF0000",
+    "borderColor": "#FF00FF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -123,9 +123,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FF0000"
+      "centerColor": "#FF00FF"
     },
-    "borderColor": "#FF0000",
+    "borderColor": "#FF00FF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
