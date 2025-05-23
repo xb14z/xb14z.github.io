@@ -1,6 +1,6 @@
-{
+[{
   "type": "flex",
-  "altText": "คุณได้รับเครดิตฟรี 79 บาท!!",
+  "altText": "คุณได้รับเครดิตฟรี 79 บาท",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -129,7 +129,7 @@
               },
               {
                 "type": "text",
-                "text": "42,730 User",
+                "text": "45,730 User",
                 "wrap": true,
                 "color": "#00FF66",
                 "size": "lg",
@@ -206,4 +206,4 @@
     "backgroundColor": "#000000"
   }
 }
-}
+}]
