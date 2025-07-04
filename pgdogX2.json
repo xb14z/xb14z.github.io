@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "🎁ปั่นสล็อตฟรี ไม่ต้องมีทุน รับฟรี 500 บาท ที่นี่รับเลย",
+  "altText": "🎁แจกฟรี 200 ไม่ต้องรอ ไม่มีกิจกรรม รับได้เลยตอนนี้",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,7 +10,7 @@
     "contents": [
       {
         "type": "text",
-        "text": "🔥เว็บตรง แตกง่าย ถอนได้จริง🔥",
+        "text": "🪐เว็บตรง แตกง่าย ถอนได้จริง🪐",
         "align": "center",
         "weight": "bold",
         "color": "#FFFF00",
@@ -18,18 +18,18 @@
         "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "POCKET78",
+          "label": "PORSCHE88",
           "uri": "https://t.ly/pgdogX2"
         }
       },
       {
         "type": "image",
-        "url": "https://i.postimg.cc/Dfc5sK2H/2.jpg",
+        "url": "https://i.postimg.cc/YqPsN5BT/image.jpg",
         "size": "full",
         "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "POCKET78",
+          "label": "PORSCHE88",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -48,7 +48,7 @@
           },
           {
             "type": "text",
-            "text": "🧧ทำยอดน้อยถอนได้จริง กดรับเองที่หน้าเว็บ🧧",
+            "text": "🧧ไม่ต้องทำกิจกรรม กดรับเองที่หน้าเว็บ🧧",
             "align": "center",
             "weight": "bold",
             "color": "#ffffff",
@@ -57,7 +57,7 @@
             "offsetTop": "xs",
             "action": {
               "type": "uri",
-              "label": "POCKET78",
+              "label": "PORSCHE88",
               "uri": "https://t.ly/pgdogX2"
             }
           }
@@ -80,24 +80,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/50Twm3MP/8-40.jpg",
+            "url": "https://i.postimg.cc/tTdK22NW/15-100.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/Vs09k3j2/15-100.jpg",
+            "url": "https://i.postimg.cc/RhMj8Kg8/35-140.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/SRbnst4p/25-120.jpg",
+            "url": "https://i.postimg.cc/dQ6MCN1K/99-300.jpg",
             "size": "xl"
           }
         ],
         "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "POCKET78",
+          "label": "PORSCHE88",
           "uri": "https://t.ly/pgdogX2"
         }
       },
@@ -125,7 +125,7 @@
             },
             "style": "secondary",
             "gravity": "center",
-            "color": "#FFFF33"
+            "color": "#FFFF00"
           }
         ],
         "offsetTop": "md"
@@ -140,7 +140,7 @@
     },
     "borderWidth": "bold",
     "cornerRadius": "xs",
-    "borderColor": "#6600FF"
+    "borderColor": "#FFFF00"
   }
 }
 }]
