@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "🎉ได้แล้ว!! เครดิตเงินคืน 1000 บาท เข้ารับเลยตอนนี้!",
+  "altText": "✅แจกฟรี 1000 บาท รับได้อีก ไม่ต้องฝาก ไม่จำกัด!!",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/FHz1P4VT/2.jpg",
+        "url": "https://i.postimg.cc/kXjWL2V1/4.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "P2G88",
+          "label": "KODFIN89",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "P2G88",
+          "label": "KODFIN89",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/L4vqRDWG/8-40.jpg",
+            "url": "https://i.postimg.cc/yYRVC95v/18-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/8Ch5YmWK/15-100.jpg",
+            "url": "https://i.postimg.cc/ry5kh4HT/30-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/65H3mCcc/25-120.jpg",
+            "url": "https://i.postimg.cc/4NKzkJzX/50-180.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "P2G88",
+          "label": "KODFIN89",
           "uri": "https://t.ly/pgdogX4"
         },
         "spacing": "none"
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FF00FF",
+    "borderColor": "#33FF00",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -123,11 +123,12 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FF00FF"
+      "centerColor": "#33FF00"
     },
-    "borderColor": "#FF00FF",
+    "borderColor": "#33FF00",
     "borderWidth": "semi-bold",
-    "paddingAll": "lg"
+    "paddingAll": "lg",
+    "spacing": "md"
   },
   "styles": {
     "body": {
