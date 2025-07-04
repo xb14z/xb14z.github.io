@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "📢คุณได้สิทธิ์ปั่น สล็อตฟรี 500 กดรับเลย",
+  "altText": "📢แจกฟรี 500 บาท ไม่ต้องฝากก่อนก็รับได้เลย",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/G2vYbQcW/2.jpg",
+        "url": "https://i.postimg.cc/Kj2hgh7f/image.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "FAST99",
+          "label": "FUTURE44",
           "uri": "https://t.ly/pgdogX1"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "FAST99",
+          "label": "FUTURE44",
           "uri": "https://t.ly/pgdogX1"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/6QSw62Ks/5-20.jpg",
+            "url": "https://i.postimg.cc/pLTPybY7/18-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/bN8Pvf7v/10-50.jpg",
+            "url": "https://i.postimg.cc/fRrD928b/50-180.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/26pJX4m5/15-100.jpg",
+            "url": "https://i.postimg.cc/8CfDBRYm/88-250.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "FAST99",
+          "label": "FUTURE44",
           "uri": "https://t.ly/pgdogX1"
         },
         "spacing": "none"
@@ -78,7 +78,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FFFF00",
+    "borderColor": "#00FFFF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -102,7 +102,7 @@
           "uri": "https://t.ly/pgdogX1"
         },
         "style": "secondary",
-        "color": "#33FF00"
+        "color": "#FFFF00"
       }
     ],
     "backgroundColor": "#000000",
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FFFF00"
+      "centerColor": "#00FFFF"
     },
-    "borderColor": "#FFFF00",
+    "borderColor": "#00FFFF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
