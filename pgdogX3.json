@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "🔖คูปองฟรี 1000 บาท รีบเปิดรับเลย ก่อนหมดอายุ!",
+  "altText": "✨รับฟรี 300 บาท ก่อนใครที่นี่เลย ไม่ต้องฝากก่อน",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/52LpC2nw/2.jpg",
+        "url": "https://i.postimg.cc/pr6Q6R0Y/3.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "DUCK123",
+          "label": "MALA1688",
           "uri": "https://t.ly/pgdogX3"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "DUCK123",
+          "label": "MALA1688",
           "uri": "https://t.ly/pgdogX3"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/c4jVnqjY/5-20.jpg",
+            "url": "https://i.postimg.cc/CLRsfn1v/10-40.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/HWvNqDTK/10-50.jpg",
+            "url": "https://i.postimg.cc/ZKXFPYvJ/25-120.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/rFvPp10N/15-100.jpg",
+            "url": "https://i.postimg.cc/Z53Pwk6p/60-200.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "DUCK123",
+          "label": "MALA1688",
           "uri": "https://t.ly/pgdogX3"
         },
         "spacing": "none"
@@ -78,7 +78,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#33FF00",
+    "borderColor": "#CC00FF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#33FF00"
+      "centerColor": "#CC00FF"
     },
-    "borderColor": "#33FF00",
+    "borderColor": "#CC00FF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
