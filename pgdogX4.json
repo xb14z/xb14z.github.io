@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "✅แจกฟรี 1000 บาท รับได้อีก ไม่ต้องฝาก ไม่จำกัด!!",
+  "altText": "✅แจกฟรี 1000 บาท รับได้เลยตอนนี้ ไม่ต้องฝาก ไม่ทำกิจกรรม!!",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,11 +10,11 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/kXjWL2V1/4.jpg",
+        "url": "https://i.postimg.cc/ZYy2z5W0/psd-50.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "KODFIN89",
+          "label": "CHIMI56",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -36,7 +36,7 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "KODFIN89",
+          "label": "CHIMI56",
           "uri": "https://t.ly/pgdogX4"
         }
       },
@@ -53,24 +53,24 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/yYRVC95v/18-100.jpg",
+            "url": "https://i.postimg.cc/2SCKWd2B/15-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/ry5kh4HT/30-150.jpg",
+            "url": "https://i.postimg.cc/B6PY3mQR/30-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/4NKzkJzX/50-180.jpg",
+            "url": "https://i.postimg.cc/8c8yzL7c/77-200.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "KODFIN89",
+          "label": "CHIMI56",
           "uri": "https://t.ly/pgdogX4"
         },
         "spacing": "none"
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#33FF00",
+    "borderColor": "#FF9900",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -123,9 +123,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#33FF00"
+      "centerColor": "#FF9900"
     },
-    "borderColor": "#33FF00",
+    "borderColor": "#FF9900",
     "borderWidth": "semi-bold",
     "paddingAll": "lg",
     "spacing": "md"
