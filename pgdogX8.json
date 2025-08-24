@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "💸แจกคูปองมูลค่า 50 บาท รับง่ายไม่ต้องฝากก่อน ไม่ต้องทำกิจกรรม❤️",
+  "altText": "💸แจกคูปองมูลค่า 300 บาท รับง่ายไม่ต้องฝากก่อน ไม่ต้องทำกิจกรรม❤️",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,12 +10,12 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/zGDcLPt7/3.jpg",
+        "url": "https://i.postimg.cc/cJtXbJp2/image.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "AOXBET223",
-          "uri": "https://t.ly/pgdogX8"
+          "label": "NEXTGEN66",
+          "uri": "https://t.ly/PScny"
         }
       },
       {
@@ -36,8 +36,8 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "AOXBET223",
-          "uri": "https://t.ly/pgdogX8"
+          "label": "NEXTGEN66",
+          "uri": "https://t.ly/PScny"
         }
       },
       {
@@ -53,25 +53,25 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/xTpKRxjt/10-100.jpg",
+            "url": "https://i.postimg.cc/1tpMyj5K/20-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/DZfZRhBs/25-150.jpg",
+            "url": "https://i.postimg.cc/Wb98prjx/30-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/7ZVb9bND/100-500.jpg",
+            "url": "https://i.postimg.cc/fRJKVLRy/50-200.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "AOXBET223",
-          "uri": "https://t.ly/pgdogX8"
+          "label": "NEXTGEN66",
+          "uri": "https://t.ly/PScny"
         },
         "spacing": "none"
       },
@@ -85,7 +85,7 @@
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#0000FF",
+    "borderColor": "#FFFF00",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -97,7 +97,7 @@
         "action": {
           "type": "uri",
           "label": "👉🏼รับเครดิตฟรี👈🏼",
-          "uri": "https://t.ly/pgdogX8"
+          "uri": "https://t.ly/PScny"
         },
         "style": "secondary",
         "color": "#FFFF00",
@@ -109,7 +109,7 @@
         "action": {
           "type": "uri",
           "label": "❤️สมัครสมาชิก❤️",
-          "uri": "https://t.ly/pgdogX8"
+          "uri": "https://t.ly/PScny"
         },
         "style": "secondary",
         "margin": "none",
@@ -123,9 +123,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#0000FF"
+      "centerColor": "#FFFF00"
     },
-    "borderColor": "#0000FF",
+    "borderColor": "#FFFF00",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
