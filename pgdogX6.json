@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "📢แจกทุนฟรีคนละ 50 บาท ไม่ต้องรอ ไม่ต้องลุ้น✅",
+  "altText": "📢แจกทุนฟรีคนละ 200 บาท ไม่ต้องรอ ไม่ต้องลุ้น✅",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -18,19 +18,19 @@
         "offsetBottom": "lg",
         "action": {
           "type": "uri",
-          "label": "BETPLAY168",
-          "uri": "https://t.ly/pgdogX6"
+          "label": "BERLIN123",
+          "uri": "https://t.ly/80rXj"
         }
       },
       {
         "type": "image",
-        "url": "https://i.postimg.cc/q7QzMW3r/image.jpg",
+        "url": "https://i.postimg.cc/QtkL64DP/4.jpg",
         "size": "full",
         "offsetBottom": "md",
         "action": {
           "type": "uri",
-          "label": "BETPLAY168",
-          "uri": "https://t.ly/pgdogX6"
+          "label": "BERLIN123",
+          "uri": "https://t.ly/80rXj"
         }
       },
       {
@@ -57,8 +57,8 @@
             "offsetTop": "xs",
             "action": {
               "type": "uri",
-              "label": "BETPLAY168",
-              "uri": "https://t.ly/pgdogX6"
+              "label": "BERLIN123",
+              "uri": "https://t.ly/80rXj"
             }
           }
         ],
@@ -80,25 +80,25 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/yNJ8sWsm/10-100.jpg",
+            "url": "https://i.postimg.cc/gjYC1Vk0/15-60.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/hvvC5F9t/25-150.jpg",
+            "url": "https://i.postimg.cc/FzDMvY7V/25-100.jpg",
             "size": "xl"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/8kbJyJ5c/100-500.jpg",
+            "url": "https://i.postimg.cc/fRhcs8Q5/80-200.jpg",
             "size": "xl"
           }
         ],
         "spacing": "sm",
         "action": {
           "type": "uri",
-          "label": "BETPLAY168",
-          "uri": "https://t.ly/pgdogX6"
+          "label": "BERLIN123",
+          "uri": "https://t.ly/80rXj"
         }
       },
       {
@@ -121,7 +121,7 @@
             "action": {
               "type": "uri",
               "label": "👉🏼 กดปุ่มนี้เพื่อรับเครดิตฟรี 👈🏼",
-              "uri": "https://t.ly/pgdogX6"
+              "uri": "https://t.ly/80rXj"
             },
             "style": "secondary",
             "gravity": "center",
@@ -140,7 +140,7 @@
     },
     "borderWidth": "bold",
     "cornerRadius": "xs",
-    "borderColor": "#FF00FF"
+    "borderColor": "#FF0000"
   }
 }
 }]
