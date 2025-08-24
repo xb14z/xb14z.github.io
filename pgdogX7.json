@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "❤️แจกฟรี 50 เปิดค่ายใหม่ แจกจริง ไม่ต้องฝาก กดรับเองที่หน้าเว็บ✅",
+  "altText": "❤️แจกฟรี 100 เปิดค่ายใหม่ แจกจริง ไม่ต้องฝาก กดรับเองที่หน้าเว็บ✅",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -10,12 +10,12 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/d0CWyPYb/3.jpg",
+        "url": "https://i.postimg.cc/5NXKDnW6/1.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "TORNADO88",
-          "uri": "https://t.ly/pgdogX7"
+          "label": "XGAME89",
+          "uri": "https://t.ly/7DLVe"
         }
       },
       {
@@ -36,8 +36,8 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "TORNADO88",
-          "uri": "https://t.ly/pgdogX7"
+          "label": "XGAME89",
+          "uri": "https://t.ly/7DLVe"
         }
       },
       {
@@ -53,32 +53,32 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/W3bkPgX5/10-100.jpg",
+            "url": "https://i.postimg.cc/HLgScmcy/15-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/Df4qfd7N/25-150.jpg",
+            "url": "https://i.postimg.cc/vTkhQwwD/30-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/hvVzLsjP/100-500.jpg",
+            "url": "https://i.postimg.cc/28LT0ynW/50-150.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "TORNADO88",
-          "uri": "https://t.ly/pgdogX7"
+          "label": "XGAME89",
+          "uri": "https://t.ly/7DLVe"
         },
         "spacing": "none"
       }
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FF9900",
+    "borderColor": "#0000FF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -99,10 +99,10 @@
         "action": {
           "type": "uri",
           "label": "👉🏼 กดปุ่มนี้เพื่อติดต่อรับเครดิตฟรี 👈🏼",
-          "uri": "https://t.ly/pgdogX7"
+          "uri": "https://t.ly/7DLVe"
         },
         "style": "secondary",
-        "color": "#66FF00"
+        "color": "#FFFF66"
       }
     ],
     "backgroundColor": "#000000",
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FF9900"
+      "centerColor": "#0000FF"
     },
-    "borderColor": "#FF9900",
+    "borderColor": "#0000FF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
