@@ -10,12 +10,12 @@
     "contents": [
       {
         "type": "image",
-        "url": "https://i.postimg.cc/8P8pBypS/psd-50-NEW.jpg",
+        "url": "https://i.postimg.cc/50bDTBnR/2.jpg",
         "size": "full",
         "action": {
           "type": "uri",
-          "label": "R89PLUS",
-          "uri": "https://t.ly/pgdogX5"
+          "label": "ULTRA999",
+          "uri": "https://t.ly/UC5Mh"
         }
       },
       {
@@ -36,8 +36,8 @@
         "align": "center",
         "action": {
           "type": "uri",
-          "label": "R89PLUS",
-          "uri": "https://t.ly/pgdogX5"
+          "label": "ULTRA999",
+          "uri": "https://t.ly/UC5Mh"
         }
       },
       {
@@ -53,32 +53,32 @@
         "contents": [
           {
             "type": "image",
-            "url": "https://i.postimg.cc/tgfQRT7j/10-100.jpg",
+            "url": "https://i.postimg.cc/SQZH1z8g/19-100.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/sxdkSNpH/25-150.jpg",
+            "url": "https://i.postimg.cc/xThhnD6H/29-150.jpg",
             "size": "lg"
           },
           {
             "type": "image",
-            "url": "https://i.postimg.cc/FsPPX6Yt/100-500.jpg",
+            "url": "https://i.postimg.cc/bvj5S0cw/69-200.jpg",
             "size": "lg"
           }
         ],
         "offsetTop": "lg",
         "action": {
           "type": "uri",
-          "label": "R89PLUS",
-          "uri": "https://t.ly/pgdogX5"
+          "label": "ULTRA999",
+          "uri": "https://t.ly/UC5Mh"
         },
         "spacing": "none"
       }
     ],
     "paddingBottom": "xl",
     "backgroundColor": "#000000",
-    "borderColor": "#FFFF00",
+    "borderColor": "#FF33FF",
     "borderWidth": "semi-bold"
   },
   "body": {
@@ -99,10 +99,10 @@
         "action": {
           "type": "uri",
           "label": "👉🏼 กดปุ่มนี้เพื่อติดต่อรับเครดิตฟรี 👈🏼",
-          "uri": "https://t.ly/pgdogX5"
+          "uri": "https://t.ly/UC5Mh"
         },
         "style": "secondary",
-        "color": "#66FF00"
+        "color": "#FFFF00"
       }
     ],
     "backgroundColor": "#000000",
@@ -111,9 +111,9 @@
       "angle": "0deg",
       "startColor": "#000000",
       "endColor": "#000000",
-      "centerColor": "#FFFF00"
+      "centerColor": "#FF33FF"
     },
-    "borderColor": "#FFFF00",
+    "borderColor": "#FF33FF",
     "borderWidth": "semi-bold",
     "paddingAll": "lg"
   },
